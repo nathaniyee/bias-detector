@@ -1,5 +1,3 @@
 name = "bias-detector"
 type = "javascript"
-account_id = "323eaf355a4d1090f847493c6ba2ffa2"
-workers_dev = true
 pages_build_output_dir = "build"
