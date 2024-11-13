@@ -1,2 +1,2 @@
 # wrangler.toml
-pages_build_output_dir = "build" # Change "build" to your correct output directory
+pages_build_output_dir = "build"
