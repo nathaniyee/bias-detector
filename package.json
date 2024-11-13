@@ -1,12 +1,11 @@
 {
     "name": "bias-detector",
     "version": "1.0.0",
-    "description": "A project to detect bias in articles",
+    "description": "A tool for detecting bias in articles",
     "main": "index.js",
     "scripts": {
-      "build": "your-build-command-here"
+      "build": "npm run build"
     },
-    "dependencies": {
-      "some-dependency": "^1.0.0"
-    }
+    "dependencies": {}
   }
+  
